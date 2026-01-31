@@ -1,0 +1,7 @@
+# Git repository [https://github.com/Sanduni02/Assignment1-ITPM.git]
+
+# Run all tests - npm test
+
+# Run specific tests - npm playwright test tests/positive-tests.spec.js 
+# Run specific tests - npm playwright test tests/negative-tests.spec.js 
+# Run specific tests - nnpx playwright test tests/ui-test.spec.js
